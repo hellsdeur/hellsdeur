@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **PyTorch, DVC, TFLite, OONX**
 
-- 💬 Ask me about **Python, TensorFlow**
+- 💬 Ask me about **Python, TensorFlow, LaTeX**
 
 - 📫 How to reach me **mtshelder@gmail.com**
 
-- ⚡ Fun fact: **I'm from Pará and I don't like açai**
+- ⚡ Fun fact: **I'm from Pará and I don't like açai 😡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
